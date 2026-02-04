@@ -49,4 +49,4 @@ Docker, AWS (EC2, S3), GitHub Actions, Firebase, Vercel, Render
 Git, GitHub, Postman, Vite
 
 📫 Reach me at: **priyanshusrivastava318@gmail.com**  
-💼 LinkedIn: linkedin.com/in/priyanshu-srivastava-dev
+💼 LinkedIn: [https://www.linkedin.com/in/priyanshu-srivastava-dev/](url)
