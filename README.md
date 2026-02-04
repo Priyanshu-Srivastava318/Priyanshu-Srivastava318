@@ -7,19 +7,19 @@ I enjoy building real-world products, not demo apps.
 
 ### 🚀 Projects I've Built
 
-• **Bharat-Freelance**  
+• **Bharat-Freelance**  [https://bharat-freelance.vercel.app/](url) 
 AI-powered freelancing platform with escrow payments and ATS-based candidate ranking.
 
-• **Inquisitor**  
+• **Inquisitor**  [https://inquisitor-siem.netlify.app/](url)
 AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
 
-• **LuminX**  
+• **LuminX**  [https://lumin-x.netlify.app/](url)
 Low-light image enhancement platform with real-time previews using MERN + Python ML models.
 
-• **Haircare-AI**  
+• **Haircare-AI** [https://hairnet-webapp.vercel.app/](url) 
 AI-based diagnostic system that identifies root causes of hair issues and generates personalized reports.
 
-• **U-Craft**  
+• **U-Craft**  [https://u-craft.onrender.com/](url)
 Artisan marketplace connecting independent creators with buyers through custom order workflows.
 
 • **HR Management System**  
