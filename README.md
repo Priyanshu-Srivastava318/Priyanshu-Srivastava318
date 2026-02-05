@@ -1,7 +1,8 @@
 Hey, I'm Priyanshu 👋
 
-Full Stack Developer (MERN) based in India.  
+Full Stack Developer (MERN + PERN) based in India.  
 I enjoy building real-world products, not demo apps.
+Having an Entrepreneurial mindset.
 
 ---
 
