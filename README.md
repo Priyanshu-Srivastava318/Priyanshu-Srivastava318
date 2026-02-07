@@ -14,7 +14,7 @@ AI-powered freelancing platform with escrow payments and ATS-based candidate ran
 • **Inquisitor**  [https://inquisitor-siem.netlify.app/](https://inquisitor-siem.netlify.app/)
 AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
 
-• **LuminX**  [https://lumin-x.netlify.app/](https://lumin-x.netlify.app/)
+• **LuminX**  [https://lumin-x.netlify.app/](https://luminx.netlify.app/
 Low-light image enhancement platform with real-time previews using MERN + Python ML models.
 
 • **Haircare-AI** [https://hairnet-webapp.vercel.app/](https://hairnet-webapp.vercel.app/) 
