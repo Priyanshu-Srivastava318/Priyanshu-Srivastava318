@@ -11,14 +11,14 @@ Having an Entrepreneurial mindset.
 • **Bharat-Freelance**  [https://bharat-freelance.vercel.app/](https://bharat-freelance.vercel.app/) 
 AI-powered freelancing platform with escrow payments and ATS-based candidate ranking.
 
-• **Inquisitor**  [https://inquisitor-siem.netlify.app/](https://inquisitor-siem.netlify.app/)
-AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
+• **Haircare-AI** [https://hairnet-webapp.vercel.app/](https://haircare-ai.vercel.app/) 
+AI-based diagnostic system that identifies root causes of hair issues and generates personalized reports.
 
-• **LuminX**  [https://lumin-x.netlify.app/](https://luminx.netlify.app/)
+• **LuminX**  [https://lumin-x.netlify.app/](https://lumin-x-eight.vercel.app/)
 Low-light image enhancement platform with real-time previews using MERN + Python ML models.
 
-• **Haircare-AI** [https://hairnet-webapp.vercel.app/](https://hairnet-webapp.vercel.app/) 
-AI-based diagnostic system that identifies root causes of hair issues and generates personalized reports.
+• **Inquisitor**  [https://inquisitor-siem.netlify.app/](https://inquisitor-siem.netlify.app/)
+AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
 
 • **U-Craft**  [https://u-craft.onrender.com/](https://u-craft.onrender.com/)
 Artisan marketplace connecting independent creators with buyers through custom order workflows.
@@ -50,4 +50,5 @@ Docker, AWS (EC2, S3), GitHub Actions, Firebase, Vercel, Render
 Git, GitHub, Postman, Vite
 
 📫 Reach me at: **priyanshusrivastava318@gmail.com**  
-💼 LinkedIn: [https://www.linkedin.com/in/priyanshu-srivastava-dev/](url)
+💼 LinkedIn: [https://www.linkedin.com/in/priyanshu-srivastava-dev/](https://www.linkedin.com/in/priyanshu-srivastava-dev/)
+
