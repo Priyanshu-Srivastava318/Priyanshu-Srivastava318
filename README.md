@@ -11,10 +11,10 @@ Having an Entrepreneurial mindset.
 • **Bharat-Freelance**  [https://bharat-freelance.vercel.app/](https://bharat-freelance.vercel.app/) 
 AI-powered freelancing platform with escrow payments and ATS-based candidate ranking.
 
-• **Haircare-AI** [https://hairnet-webapp.vercel.app/](https://haircare-ai.vercel.app/) 
+• **Haircare-AI** [https://haircare-ai.vercel.app/)](https://haircare-ai.vercel.app/) 
 AI-based diagnostic system that identifies root causes of hair issues and generates personalized reports.
 
-• **LuminX**  [https://lumin-x.netlify.app/](https://lumin-x-eight.vercel.app/)
+• **LuminX**  [https://lumin-x-eight.vercel.app/](https://lumin-x-eight.vercel.app/)
 Low-light image enhancement platform with real-time previews using MERN + Python ML models.
 
 • **Inquisitor**  [https://inquisitor-siem.netlify.app/](https://inquisitor-siem.netlify.app/)
