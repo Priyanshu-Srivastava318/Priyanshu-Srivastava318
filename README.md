@@ -17,7 +17,7 @@ AI-based diagnostic system that identifies root causes of hair issues and genera
 • **LuminX**  [https://lumin-x-eight.vercel.app/](https://lumin-x-eight.vercel.app/)
 Low-light image enhancement platform with real-time previews using MERN + Python ML models.
 
-• **Inquisitor**  [https://inquisitor-siem.netlify.app/](https://inquisitor-siem.netlify.app/)
+• **Inquisitor**  [https://inquisitor-siem-assistant-model.vercel.app/](https://inquisitor-siem-assistant-model.vercel.app/)
 AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
 
 • **U-Craft**  [https://u-craft.onrender.com/](https://u-craft.onrender.com/)
