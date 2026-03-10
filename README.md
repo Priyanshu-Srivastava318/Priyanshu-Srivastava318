@@ -20,7 +20,7 @@ Low-light image enhancement platform with real-time previews using MERN + Python
 • **Inquisitor**  [https://inquisitor-siem-assistant-model.vercel.app/](https://inquisitor-siem-assistant-model.vercel.app/)
 AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
 
-• **U-Craft**  [https://u-craft.onrender.com/](https://u-craft.onrender.com/)
+• **U-Craft**  [https://u-craft-mern-based.vercel.app/](https://u-craft-mern-based.vercel.app/)
 Artisan marketplace connecting independent creators with buyers through custom order workflows.
 
 • **HR Management System**  
