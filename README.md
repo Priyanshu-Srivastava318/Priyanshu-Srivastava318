@@ -1,54 +1,62 @@
-Hey, I'm Priyanshu 👋
+# Hey, I'm Priyanshu 👋
 
-Full Stack Developer (MERN + PERN) based in India.  
-I enjoy building real-world products, not demo apps.
-Having an Entrepreneurial mindset.
+I'm a Full Stack Developer from India, focused on building real-world products with MERN, PERN, and AI-powered web systems.
+
+I like working on products that solve actual problems, not just demo apps. I enjoy thinking through user flows, backend architecture, and how to make applications usable, scalable, and production-ready.
 
 ---
 
-### 🚀 Projects I've Built
+## 🚀 Projects I've Built
 
-• **Bharat-Freelance**  [https://bharat-freelance.vercel.app/](https://bharat-freelance.vercel.app/) 
-AI-powered freelancing platform with escrow payments and ATS-based candidate ranking.
+### U-Craft
+🔗 [https://u-craft.in/](https://u-craft.in/)  
+An artisan marketplace for independent creators and buyers, built with MERN.  
+Includes buyer/artist roles, product listings, cart, wishlist, Razorpay checkout, Cloudinary image uploads, realtime order tracking, and artist-buyer messaging.
 
-• **Haircare-AI** [https://haircare-ai.vercel.app/)](https://haircare-ai.vercel.app/) 
-AI-based diagnostic system that identifies root causes of hair issues and generates personalized reports.
+### Bharat-Freelance
+🔗 [https://bharat-freelance.vercel.app/](https://bharat-freelance.vercel.app/)  
+An AI-powered freelancing platform with escrow-style payments, role-based flows, and ATS-based candidate ranking for faster hiring decisions.
 
-• **LuminX**  [https://lumin-x-eight.vercel.app/](https://lumin-x-eight.vercel.app/)
-Low-light image enhancement platform with real-time previews using MERN + Python ML models.
+### Inquisitor
+🔗 [https://inquisitor-siem-assistant-model.vercel.app/](https://inquisitor-siem-assistant-model.vercel.app/)  
+An AI-driven SIEM assistant that helps analyze security logs using natural language queries, anomaly detection, and Elasticsearch-powered search.
 
-• **Inquisitor**  [https://inquisitor-siem-assistant-model.vercel.app/](https://inquisitor-siem-assistant-model.vercel.app/)
-AI-driven SIEM assistant that helps analyze security logs using natural language queries and anomaly detection.
+### Haircare-AI
+🔗 [https://haircare-ai.vercel.app/](https://haircare-ai.vercel.app/)  
+An AI-based hair diagnosis platform that analyzes user inputs and generates personalized hair-care recommendations.
 
-• **U-Craft**  [https://u-craft-mern-based.vercel.app/](https://u-craft-mern-based.vercel.app/)
-Artisan marketplace connecting independent creators with buyers through custom order workflows.
+### LuminX
+🔗 [https://lumin-x-eight.vercel.app/](https://lumin-x-eight.vercel.app/)  
+A low-light image enhancement platform using a React frontend and Python ML pipeline, with image upload, enhancement processing, and preview support.
 
-• **HR Management System**  
-Role-based employee dashboard with attendance tracking and internal HR workflows.
+### HR Management System
+A role-based employee management dashboard with attendance tracking, admin workflows, and internal HR operations.
 
-### 🛠 Tech Stack & Tools
+---
 
-**Languages**  
-JavaScript (ES6+), Python, Java, SQL, C
+## 🛠 Tech Stack & Tools
 
-**Frontend**  
-React.js, Next.js, HTML5, CSS3, Tailwind CSS
+**Languages:** JavaScript, Python, Java, SQL, C  
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**AI / ML & Search:** Python ML Models, Elasticsearch, Data Analysis  
+**Cloud & DevOps:** Vercel, Render, Firebase, AWS EC2/S3, Docker, GitHub Actions  
+**Tools:** Git, GitHub, Postman, Vite
 
-**Backend**  
-Node.js, Express.js, FastAPI, REST APIs
+---
 
-**Databases**  
-MongoDB, PostgreSQL, MySQL
+## 📌 What I'm Currently Focused On
 
-**AI / ML & Search**  
-Python ML Models, ElasticSearch, Data Analysis
+- Building scalable MERN applications
+- Improving backend API design
+- Strengthening system design fundamentals
+- Integrating AI features into real-world products
 
-**DevOps & Cloud**  
-Docker, AWS (EC2, S3), GitHub Actions, Firebase, Vercel, Render
+---
 
-**Tools**  
-Git, GitHub, Postman, Vite
+## 📫 Reach Me
 
-📫 Reach me at: **priyanshusrivastava318@gmail.com**  
-💼 LinkedIn: [https://www.linkedin.com/in/priyanshu-srivastava-dev/](https://www.linkedin.com/in/priyanshu-srivastava-dev/)
-
+**Email:** [priyanshusrivastava318@gmail.com](priyanshusrivastava318@gmail.com)  
+**LinkedIn:** [https://www.linkedin.com/in/priyanshu-srivastava-dev/](https://www.linkedin.com/in/priyanshu-srivastava-dev/)  
+**Portfolio:** [https://priyanshu-srivastava-portfolio.netlify.app/](https://priyanshusrivastavaportfolio.vercel.app/)
